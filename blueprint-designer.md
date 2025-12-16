@@ -16,7 +16,7 @@ The Blueprint Designer can be accessed from the HCC Console at:
 
 Navigate to the Blueprint Designer from the HCC Console main menu.
 
-![Blueprint Designer Home](images/blueprint-designer/Screenshot%202025-12-16%20at%203.19.05%20PM.png)
+![Blueprint Designer Home](images/blueprint-designer/1.png)
 
 The Blueprint Designer provides an intuitive interface for creating infrastructure blueprints with drag-and-drop functionality.
 
